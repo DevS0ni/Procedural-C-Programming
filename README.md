@@ -1,4 +1,10 @@
 # ITC - Procedural C Programming Course
+
+This repository contains all of my code and work I did in the above mentioned course.
+- Labs Inclass
+- Assignments
+- Projects
+- 
 ```
 ----------------------------------------
 Course Information
