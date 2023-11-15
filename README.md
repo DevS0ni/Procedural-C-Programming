@@ -4,7 +4,6 @@ This repository contains all of my code and work I did in the above mentioned co
 - Labs Inclass
 - Assignments
 - Projects
-- 
 ```
 ----------------------------------------
 Course Information
