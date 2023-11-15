@@ -40,18 +40,20 @@ After successful completion of this course, it helped me to...
      - Dynamic Memory Allocation (malloc & calloc)
      - Debugging Methods & Troubleshooting, Walkthroughs, Modular Aspects of Programming.
      - Syntactic and Semantic Errors
- 
+ ```
 ----------------------------------------
 Technologies & Tools Used for the Course
 ----------------------------------------
+```
 - Microsoft Visual Studio (Windows)
 - VS Code (Windows & Mac OSX)
 - CodeBlocks (Windows & Mac OSX)
 - DevC++ (Windows)
-
+```
 ----------------------------------------
 Academic Honesty/ Integrity Statement
 ----------------------------------------
+```
 I declare that the code in this repository is entirely my own work.
 
 NOTE: For others, this repo can be a good reference, if someone wants to learn &
