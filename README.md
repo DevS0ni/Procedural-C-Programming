@@ -1,1 +1,1 @@
-# HELLO-WORLD-C-PROG-1
+# ITC-Procedural C Programming Course
