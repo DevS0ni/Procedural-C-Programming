@@ -8,6 +8,7 @@ After successful completion of this course, it helped me to...
   * Gain a handsome knowledge on all of the procedural aspects of C programming namely-
      - Intro to C Programming.
      - Difference between Procedural aspects & Object-Oriented Programming.
+     - Naming Conventions.
      - Variables (Tokens, Identifiers), Data Types.
      - Operators (Arithmetic, Relational, Bitwise, Assignment, Logical, Misc)
      - Ternary Operators & Operators Precedence.
@@ -40,4 +41,13 @@ Technologies & Tools Used for the Course
 - VS Code (Windows & Mac OSX)
 - CodeBlocks (Windows & Mac OSX)
 - DevC++ (Windows)
+
+----------------------------------------
+Academic Honesty/ Integrity Statement
+----------------------------------------
+I declare that the code in this repository is entirely my own work.
+
+NOTE: For others, this repo can be a good reference, if someone wants to learn &
+understand the aspects of C programming and it's topic but must not copy the
+work completed by me!
 ```
