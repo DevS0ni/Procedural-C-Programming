@@ -4,19 +4,19 @@
 void main()
 {
 	aa:goto cc;
-	hum:printf(“the limit”);
+	hum:printf(â€œthe limitâ€);
 	goto end;
 
-	bb:printf(“\tsky”);
+	bb:printf(â€œ\tskyâ€);
 	goto dd;
 
-	cc:printf(“\n\n the”);
+	cc:printf(â€œ\n\n theâ€);
 	gotobb;
 
-	dd:printf(“\t is”);
+	dd:printf(â€œ\t isâ€);
 	goto hum;
 
-	end:printf(“for the programmer”);
+	end:printf(â€œfor the programmerâ€);
 
          getch();     
 }
