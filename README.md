@@ -4,11 +4,13 @@ This repository contains all of my code and work I did in the above mentioned co
 - Labs Inclass
 - Assignments
 - Projects
-```
+
 ----------------------------------------
 Course Information
 ----------------------------------------
 After successful completion of this course, it helped me to...
+
+```
   * Gain a basic understaning of C programming.
   * Gain a handsome knowledge on all of the procedural aspects of C programming namely-
      - Intro to C Programming.
