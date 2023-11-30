@@ -1,0 +1,15 @@
+Q1) C program to print all natural numbers from 1 to n
+Q2) C program to print all alphabets from a to z
+Q3) C program to print all even numbers from 1 to n
+Q4) C program to find sum of natural numbers between 1 to n
+Q5) C program to print the sum of all odd numbers from 1 to n
+Q6) C program to print the sum of all odd numbers in given range
+Q7) C program to print multiplication table of a number
+Q8) C program to count number of digits in an integer
+Q9) C program to find last digit of a number
+Q10) C program to find first digit of a number 
+Q11) C program to find sum of first and last digit of a number using loop
+Q12) C program to find sum of its digits of a number
+Q13) C program to find reverse of a number
+Q14) C program to find power of any number using for loop
+Q15) C program to calculate factorial of a number
