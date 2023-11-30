@@ -1,0 +1,6 @@
+Q1) C program to read and print elements in an array
+Q2) C program to find sum of all elements of array 
+Q3) C program to find second largest number in an array
+Q4) C program to copy one array to another array
+Q5) C program to print array in reverse order	
+Q6) C program to sort elements of array in ascending order
