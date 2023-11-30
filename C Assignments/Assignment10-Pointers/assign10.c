@@ -75,3 +75,15 @@ int main() {
 
     return 0;
 }
+
+/* Q-1 Pointers Theory Solution:
+
+* Pointers in C are variables that store the memory address of another variable, 
+  enabling indirect access and manipulation of data. 
+* They offer advantages such as dynamic memory allocation, efficient function parameter passing, 
+  support for arrays and strings, facilitation of complex data structures, reduced code size 
+  through avoidance of data duplication, direct memory access, and the use of function pointers 
+  for flexible program design. 
+* While powerful, pointers require careful usage to avoid issues like memory leaks and segmentation 
+  faults, demanding a good understanding of memory management principles and precise programming practices.
+*/
