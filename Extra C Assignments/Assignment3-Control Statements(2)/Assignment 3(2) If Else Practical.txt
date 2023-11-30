@@ -1,0 +1,13 @@
+Q1) C program to find maximum between two numbers
+Q2) C program to find maximum between three numbers using nested if
+Q3) C program to check positive negative or zero using simple if statement
+Q4) C program to check divisibility of any number 5 or 11
+Q5) C program to check even or odd number
+Q6) C program to check Leap Year
+Q7) C program to check whether a character is alphabet or not
+Q8) C program to check whether a character is vowel or consonant
+Q9) C program to check alphabet, digit or special character
+Q10) C program to check whether a character is uppercase or lowercase 
+Q11) C program to print day name of week
+Q12) C program to print number of days in a month
+Q13) C program to calculate profit or loss
