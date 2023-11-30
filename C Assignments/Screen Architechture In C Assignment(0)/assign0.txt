@@ -1,1 +1,77 @@
+C Programming Screen Architecture
 
+1. Different ways to start Turbo C++:
+   - Double-click the Turbo C++ shortcut icon.
+   - Navigate to the Turbo C++ installation directory and run the executable file.
+
+2. How to open a new file:
+   - Open Turbo C++.
+   - Press `Ctrl` + `N` to open a new file.
+
+3. How to open a file in full screen:
+   - Press `Alt` + `Enter` to toggle between full screen and windowed mode.
+
+4. Shortcuts for zoom:
+   - Zoom In: `Alt` + `F6`
+   - Zoom Out: `Alt` + `F5`
+
+5. How to save a C file:
+   - Press `Ctrl` + `S` to save the file.
+
+6. How to open a saved file:
+   - Press `Ctrl` + `O` to open a saved file.
+
+7. How to save as a C file:
+   - Press `Ctrl` + `F2` to save as a file.
+
+8. Shortcuts for open, save, exit:
+   - Open: `Ctrl` + `O`
+   - Save: `Ctrl` + `S`
+   - Exit: `Alt` + `X`
+
+9. Copy, Cut, Paste, Clear in C Program:
+   - Copy: `Ctrl` + `Insert`
+   - Cut: `Shift` + `Delete`
+   - Paste: `Shift` + `Insert`
+   - Clear: `Ctrl` + `K`
+
+10. Undo and Redo:
+    - Undo: `Ctrl` + `U`
+    - Redo: `Ctrl` + `R`
+
+11. Shortcuts for undo and redo:
+    - Undo: `Ctrl` + `Z`
+    - Redo: `Ctrl` + `Y`
+
+12. How to compile a C program:
+    - Press `Alt` + `F9` to compile.
+
+13. How to run a C program:
+    - Press `Ctrl` + `F9` to run.
+
+14. Shortcuts for run and compile:
+    - Run: `F9`
+    - Compile: `Ctrl` + `F9`
+
+15. Shortcuts for copy, cut, paste, clear:
+    - Copy: `Ctrl` + `Ins`
+    - Cut: `Shift` + `Del`
+    - Paste: `Shift` + `Ins`
+    - Clear: `Ctrl` + `K`
+
+16. How to maximize and minimize Turbo C++ window:
+    - Maximize: `Alt` + `Space`, then press `X`
+    - Minimize: `Alt` + `Space`, then press `N`
+
+17. Shortcut for maximize and minimize:
+    - Maximize: `Alt` + `Space`, then press `X`
+    - Minimize: `Alt` + `Space`, then press `N`
+
+18. How to close Turbo C++:
+    - Press `Alt` + `F3` to close.
+
+19. Shortcut for close:
+    - `Alt` + `F3`
+
+20. File save location:
+    - By default, Turbo C++ saves files in the current project directory.
