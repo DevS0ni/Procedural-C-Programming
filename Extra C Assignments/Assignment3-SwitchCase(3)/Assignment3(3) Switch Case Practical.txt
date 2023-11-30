@@ -1,0 +1,6 @@
+Q1) C program to print day of week using switch case
+Q2) C program to print number of days in a month using switch case 
+Q3) C program to check vowel or consonant using switch case
+Q4) C program to find maximum between two numbers using switch case
+Q5) C program to check positive negative or zero using switch case
+Q6) C program to create Simple Calculator using switch case
